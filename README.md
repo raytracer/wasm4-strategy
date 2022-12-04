@@ -2,6 +2,8 @@
 
 A game written in AssemblyScript for the [WASM-4](https://wasm4.org) fantasy console. A very simple Anno 1602 like prototype. Shows simple isometric drawing and selection abilities.
 
+![Screenshot](./wasm4-screenshot.png)
+
 ## Building
 
 First setup the project by running:
